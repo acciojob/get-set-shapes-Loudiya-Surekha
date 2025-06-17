@@ -1,6 +1,6 @@
 //complete this code
 class Rectangle {
-	constructor(width:number, height:number){
+	constructor(width, height){
 		this._width=width;
 		this._height=heigth;
 	}
